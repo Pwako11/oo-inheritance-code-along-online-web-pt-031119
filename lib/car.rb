@@ -4,6 +4,6 @@ class Car < Vehicle
   
   
   def go 
-    "VRRR"
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end 
 end 
